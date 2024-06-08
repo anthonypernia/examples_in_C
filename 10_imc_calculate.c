@@ -7,7 +7,7 @@ int main()
     scanf("%f", &weight);
 
 
-    printf("Ingrese su altura en metros: ");
+    printf("Ingrese su altura en metros (ej: 1.75): ");
     scanf("%f", &height);
 
 

@@ -3,7 +3,7 @@
 int main()
 {
     char name[20];
-    printf("Ingrese su nombre: ");
+    printf("Ingrese su nombre (max 20 caracteres): ");
     scanf("%s", name);
     printf("Hola, %s\n", name);
     return 0;
